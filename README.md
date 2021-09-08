@@ -16,3 +16,5 @@
 - StyleGAN 2 - Paper
 - StyleCLIP - Paper
 - Swin transformer - Paper
+
+```Script가 모든 ppt에 존재하는건 아닙니다. ```
