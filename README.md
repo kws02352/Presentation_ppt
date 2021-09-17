@@ -17,5 +17,6 @@
 - StyleCLIP - Paper
 - Swin transformer - Paper
 - Sefa - Paper
+- EDA
 
 ```Script가 모든 ppt에 존재하는건 아닙니다. ```
